@@ -24,6 +24,7 @@
 <br>
     <footer>
         <p>&copy; 2024 Tech Solutions. Todos os direitos reservados.</p>
+        <p>Primeira aula de GIT</p>
     </footer>
 </body>
 </html>
